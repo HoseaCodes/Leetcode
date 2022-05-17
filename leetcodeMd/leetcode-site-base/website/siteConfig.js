@@ -22,23 +22,23 @@ const users = [
   },
 ];
 
-const repoUrl = 'https://github.com/beizhedenglong/leetcode-site-generator';
+const repoUrl = 'https://github.com/HoseaCodes/Leetcode';
 
 const siteConfig = {
-  title: 'LeetCode Site Generator', // Title for your website.
+  title: 'LeetCode', // Title for your website.
   tagline: 'Generate your personal LeetCode website with one command!',
-  url: 'https://beizhedenglong.github.io', // Your website URL
-  baseUrl: '/leetcode-site-generator/', // Base URL for your project */
+  url: 'https://hosecodesLeetcode.github.io', // Your website URL
+  baseUrl: '/Leetcode/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'leetcode-site-generator',
+  projectName: 'Leetcode',
   // organizationName: 'facebook',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
-  organizationName: 'beizhedenglong',
+  organizationName: 'HoseaCodes',
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
