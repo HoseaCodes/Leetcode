@@ -4,7 +4,7 @@ Generate your personal LeetCode website with one command!
 
 ## Example Website
 
-[leetcode-solutions](https://hoseacodes.github.io/leetcode-solutions/)
+[leetcode-solutions](https://beizhedenglong.github.io/leetcode-solutions/docs/two-sum)
 
 ## Requirements
 
@@ -73,4 +73,4 @@ Options:
 
 ### Orginal
 
-https://beizhedenglong.github.io/leetcode-solutions/docs/two-sum
+https://github.com/beizhedenglong/leetcode-site-generator

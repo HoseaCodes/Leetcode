@@ -109,6 +109,10 @@
         "title": "Group Anagrams",
         "sidebar_label": "Group Anagrams"
       },
+      "intersection-of-two-arrays": {
+        "title": "Intersection of Two Arrays",
+        "sidebar_label": "Intersection of Two Arrays"
+      },
       "invert-binary-tree": {
         "title": "Invert Binary Tree",
         "sidebar_label": "Invert Binary Tree"

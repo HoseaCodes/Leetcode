@@ -71,7 +71,8 @@
       "concatenation-of-array",
       "final-value-of-variable-after-performing-operations",
       "maximum-number-of-words-found-in-sentences",
-      "add-two-integers"
+      "add-two-integers",
+      "intersection-of-two-arrays"
     ]
   }
 }
