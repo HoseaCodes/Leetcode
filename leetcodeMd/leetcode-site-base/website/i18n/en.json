@@ -173,6 +173,10 @@
         "title": "Merge Two Sorted Lists",
         "sidebar_label": "Merge Two Sorted Lists"
       },
+      "missing-number": {
+        "title": "Missing Number",
+        "sidebar_label": "Missing Number"
+      },
       "next-permutation": {
         "title": "Next Permutation",
         "sidebar_label": "Next Permutation"
