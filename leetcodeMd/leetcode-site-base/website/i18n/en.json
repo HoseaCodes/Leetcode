@@ -77,6 +77,10 @@
         "title": "Design Circular Queue",
         "sidebar_label": "Design Circular Queue"
       },
+      "design-parking-system": {
+        "title": "Design Parking System",
+        "sidebar_label": "Design Parking System"
+      },
       "duplicate-zeros": {
         "title": "Duplicate Zeros",
         "sidebar_label": "Duplicate Zeros"
@@ -84,6 +88,10 @@
       "final-value-of-variable-after-performing-operations": {
         "title": "Final Value of Variable After Performing Operations",
         "sidebar_label": "Final Value of Variable After Performing Operations"
+      },
+      "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree": {
+        "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+        "sidebar_label": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
       },
       "find-minimum-in-rotated-sorted-array": {
         "title": "Find Minimum in Rotated Sorted Array",
@@ -117,9 +125,17 @@
         "title": "Invert Binary Tree",
         "sidebar_label": "Invert Binary Tree"
       },
+      "jewels-and-stones": {
+        "title": "Jewels and Stones",
+        "sidebar_label": "Jewels and Stones"
+      },
       "k-closest-points-to-origin": {
         "title": "K Closest Points to Origin",
         "sidebar_label": "K Closest Points to Origin"
+      },
+      "kids-with-the-greatest-number-of-candies": {
+        "title": "Kids With the Greatest Number of Candies",
+        "sidebar_label": "Kids With the Greatest Number of Candies"
       },
       "kth-largest-element-in-an-array": {
         "title": "Kth Largest Element in an Array",
@@ -172,6 +188,10 @@
       "merge-two-sorted-lists": {
         "title": "Merge Two Sorted Lists",
         "sidebar_label": "Merge Two Sorted Lists"
+      },
+      "minimum-sum-of-four-digit-number-after-splitting-digits": {
+        "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+        "sidebar_label": "Minimum Sum of Four Digit Number After Splitting Digits"
       },
       "missing-number": {
         "title": "Missing Number",
@@ -232,6 +252,10 @@
       "robot-room-cleaner": {
         "title": "Robot Room Cleaner",
         "sidebar_label": "Robot Room Cleaner"
+      },
+      "root-equals-sum-of-children": {
+        "title": "Root Equals Sum of Children",
+        "sidebar_label": "Root Equals Sum of Children"
       },
       "running-sum-of-1d-array": {
         "title": "Running Sum of 1d Array",

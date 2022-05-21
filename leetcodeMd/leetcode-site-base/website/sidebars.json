@@ -73,7 +73,13 @@
       "maximum-number-of-words-found-in-sentences",
       "add-two-integers",
       "intersection-of-two-arrays",
-      "missing-number"
+      "missing-number",
+      "jewels-and-stones",
+      "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "kids-with-the-greatest-number-of-candies",
+      "design-parking-system",
+      "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "root-equals-sum-of-children"
     ]
   }
 }
