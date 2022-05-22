@@ -101,6 +101,10 @@
         "title": "Find Numbers with Even Number of Digits",
         "sidebar_label": "Find Numbers with Even Number of Digits"
       },
+      "find-pivot-index": {
+        "title": "Find Pivot Index",
+        "sidebar_label": "Find Pivot Index"
+      },
       "find-the-duplicate-number": {
         "title": "Find the Duplicate Number",
         "sidebar_label": "Find the Duplicate Number"
@@ -116,6 +120,10 @@
       "group-anagrams": {
         "title": "Group Anagrams",
         "sidebar_label": "Group Anagrams"
+      },
+      "how-many-numbers-are-smaller-than-the-current-number": {
+        "title": "How Many Numbers Are Smaller Than the Current Number",
+        "sidebar_label": "How Many Numbers Are Smaller Than the Current Number"
       },
       "intersection-of-two-arrays": {
         "title": "Intersection of Two Arrays",
@@ -140,6 +148,10 @@
       "kth-largest-element-in-an-array": {
         "title": "Kth Largest Element in an Array",
         "sidebar_label": "Kth Largest Element in an Array"
+      },
+      "largest-number-at-least-twice-of-others": {
+        "title": "Largest Number At Least Twice of Others",
+        "sidebar_label": "Largest Number At Least Twice of Others"
       },
       "linked-list-cycle": {
         "title": "Linked List Cycle",
@@ -225,6 +237,14 @@
         "title": "Peak Index in a Mountain Array",
         "sidebar_label": "Peak Index in a Mountain Array"
       },
+      "plus-one": {
+        "title": "Plus One",
+        "sidebar_label": "Plus One"
+      },
+      "range-sum-of-bst": {
+        "title": "Range Sum of BST",
+        "sidebar_label": "Range Sum of BST"
+      },
       "remove-element": {
         "title": "Remove Element",
         "sidebar_label": "Remove Element"
@@ -285,6 +305,10 @@
         "title": "String to Integer (atoi)",
         "sidebar_label": "String to Integer (atoi)"
       },
+      "subtract-the-product-and-sum-of-digits-of-an-integer": {
+        "title": "Subtract the Product and Sum of Digits of an Integer",
+        "sidebar_label": "Subtract the Product and Sum of Digits of an Integer"
+      },
       "top-k-frequent-elements": {
         "title": "Top K Frequent Elements",
         "sidebar_label": "Top K Frequent Elements"
@@ -316,6 +340,10 @@
       "valid-sudoku": {
         "title": "Valid Sudoku",
         "sidebar_label": "Valid Sudoku"
+      },
+      "validate-binary-search-tree": {
+        "title": "Validate Binary Search Tree",
+        "sidebar_label": "Validate Binary Search Tree"
       },
       "word-ladder": {
         "title": "Word Ladder",

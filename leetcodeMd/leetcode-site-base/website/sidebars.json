@@ -79,7 +79,14 @@
       "kids-with-the-greatest-number-of-candies",
       "design-parking-system",
       "minimum-sum-of-four-digit-number-after-splitting-digits",
-      "root-equals-sum-of-children"
+      "root-equals-sum-of-children",
+      "plus-one",
+      "validate-binary-search-tree",
+      "find-pivot-index",
+      "largest-number-at-least-twice-of-others",
+      "range-sum-of-bst",
+      "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "how-many-numbers-are-smaller-than-the-current-number"
     ]
   }
 }
